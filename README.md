@@ -24,19 +24,19 @@
     <main class="container py-4">
         <h1 class="mb-2">Simple Theme in Action</h1>
         <p class="mb-3">
-            This paragraph uses the page text color. Here’s a <a href="#">content link</a>.
+            Spiuderman. Here’s a <a href="#">content link</a>.
         </p>
 
         <!-- Hero -->
         <section class="p-5 mb-4 bg-body-tertiary rounded-3">
-            <h2 class="display-6 mb-3">Hero Section</h2>
+            <h2 class="display-6 mb-3">Plague doctor</h2>
             <a class="btn btn-primary" href="#">Get Started</a>
         </section>
 
         <!-- Box -->
         <div class="box mb-4">
             <h3 class="h5">Plain Box</h3>
-            <p class="mb-0">This is a plain div styled as a surface. <a href="#">Read more</a></p>
+            <p class="mb-0">NERDS!!!!!!. <a href="#">Read more</a></p>
         </div>
 
         <!-- Card -->
