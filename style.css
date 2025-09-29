@@ -34,8 +34,19 @@
 
 /* ====== Page ====== */
 body {
-  background: var(--bg);
-  color: var(--text);
+  --bg: #000000;
+  /* page background */
+  --text: #00ff33;
+  /* main text */
+  --surface: #100f10;
+  /* cards, boxes, list items */
+  --nav: #36065B;
+  /* navbar (dark bar) */
+  --accent: #00ff00;
+  /* links & primary buttons */
+   --hero: #F1E8FF;
+ /* jumbotron/hero bg */ 
+
 }
 
 /* ====== Navbar ====== */
