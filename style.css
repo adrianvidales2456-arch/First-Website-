@@ -117,3 +117,16 @@ a.btn {
   background-color: var(--accent-hover);
   border-color: var(--accent-hover);
 }
+
+/* Video sizing helper: constrain and center responsive embeds */
+.video-container {
+  max-width: 720px; /* change this value to make videos larger/smaller */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
