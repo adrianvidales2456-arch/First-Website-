@@ -10,7 +10,7 @@
   /* cards, boxes, list items */
   --nav: #36065B;
   /* navbar (dark bar) */
-  --accent: #00ff33;
+  --accent: #00ff00;
   /* links & primary buttons */
    --hero: #F1E8FF;
  /* jumbotron/hero bg */ 
@@ -34,8 +34,8 @@
 
 /* ====== Page ====== */
 body {
-  background: var(--bg);
-  color: var(--text);
+  background: var(--bg:#000000;);
+  color: var(--text:#00ff33;);
 }
 
 /* ====== Navbar ====== */
