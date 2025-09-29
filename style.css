@@ -34,8 +34,8 @@
 
 /* ====== Page ====== */
 body {
-  background: var(--bg:#000000;);
-  color: var(--text:#00ff33;);
+  background: var(--bg);
+  color: var(--text);
 }
 
 /* ====== Navbar ====== */
